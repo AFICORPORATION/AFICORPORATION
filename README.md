@@ -1,20 +1,142 @@
-<h1 align="center">HELLO I'M A-F-I</h1>
-<h3 align="center">Frontend developer and UI/UX design</h3>
+<!-- ═══════════════ AFI-CORPORATION • DARK GOTH PROFILE ═══════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agusfaisalisroi&label=Profile%20views&color=0e75b6&style=flat" alt="agusfaisalisroi" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/agusfaisalisroi" target="blank"><img src="https://img.shields.io/twitter/follow/agusfaisalisroi?logo=twitter&style=for-the-badge" alt="agusfaisalisroi" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b1f14,100:1a472a&height=220&section=header&text=AFI-CORPORATION&fontSize=52&fontColor=c0c0c0&fontAlignY=38&desc=%E2%9C%A0%20d%20a%20r%20k%20%C2%B7%20g%20o%20t%20h%20%C2%B7%20s%20o%20u%20l%20%E2%9C%A0&descSize=16&descColor=6fa386&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/agusfaisalisroi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agusfaisalisroi" height="30" width="40" /></a>
-<a href="https://instagram.com/agusfaisalisroi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agusfaisalisroi20" height="30" width="40" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3500&pause=1000&color=8FBF9F&background=00000000&center=true&vCenter=true&width=520&lines=%E2%9D%96+Welcome+to+the+shadows+%E2%9D%96;%E2%9D%96+Silver+%26+Green+%C2%B7+Cunning+%26+Ambition+%E2%9D%96;%E2%9D%96+AFI-CORPORATION+%E2%9D%96" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/http://buymeacoffee.com/agusfaisalj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="http://buymeacoffee.com/agusfaisalj" /></a><a href="https://ko-fi.com/http://buymeacoffee.com/agusfaisalj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="http://buymeacoffee.com/agusfaisalj" /></a></p><br><br>
-<p></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agusfaisalisroi&" alt="agusfaisalisroi" /></p>
+```
+╔══════════════════════════════════════════╗
+║   ☾  𝕬𝖋𝖎 · 𝕮𝖔𝖗𝖕𝖔𝖗𝖆𝖙𝖎𝖔𝖓  ☽            ║
+║      ~ born in the dark, rise in green ~   ║
+╚══════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⛧ 𝔊𝔞𝔩𝔩𝔢𝔯𝔶 ⛧
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/photo-1.png" width="100%" alt="photo 1"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/photo-2.jpg" width="100%" alt="photo 2"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/photo-3.jpg" width="100%" alt="photo 3"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><i>✦ cunning ✦</i></sub></td>
+    <td align="center"><sub><i>✦ ambition ✦</i></sub></td>
+    <td align="center"><sub><i>✦ resourceful ✦</i></sub></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ⚰️ 𝔄𝔟𝔬𝔲𝔱
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🕯️ **Nama** | `AFI-CORPORATION` |
+| 🖤 **Vibe** | Dark · Goth · Aesthetic |
+| 🐍 **House** | Silver & Green |
+| 🌑 **Mood** | Mysterious, calm, a little dangerous |
+
+</div>
+
+> *"In the silence of the night, creativity whispers the loudest."* 🦇
+
+---
+
+## 🔗 𝔠𝔬𝔫𝔫𝔢𝔠𝔱 𝔴𝔦𝔱𝔥 𝔪𝔢
+
+<div align="center">
+
+<a href="https://sociabuzz.com/iamafi/tribe">
+  <img src="https://img.shields.io/badge/SOCIABUZZ-Support_Me-1a472a?style=for-the-badge&logo=buymeacoffee&logoColor=c0c0c0&labelColor=000000" alt="Sociabuzz"/>
+</a>
+<a href="https://www.instagram.com/agusfaisalisroi?stkn=bWkzNm52cWN0eXcz">
+  <img src="https://img.shields.io/badge/INSTAGRAM-@agusfaisalisroi-1a472a?style=for-the-badge&logo=instagram&logoColor=c0c0c0&labelColor=000000" alt="Instagram"/>
+</a>
+<a href="https://open.spotify.com/playlist/38HfDSwKCHMv7FkNtbj5y4?si=70479f470eea4faf">
+  <img src="https://img.shields.io/badge/SPOTIFY-My_Playlist-1a472a?style=for-the-badge&logo=spotify&logoColor=c0c0c0&labelColor=000000" alt="Spotify"/>
+</a>
+
+</div>
+
+<br/>
+
+<details>
+<summary>⛧ <b>Link lengkap</b> ⛧</summary>
+
+<br/>
+
+- 🕸️ **Sociabuzz** → [sociabuzz.com/iamafi/tribe](https://sociabuzz.com/iamafi/tribe)
+- 🥀 **Instagram** → [@agusfaisalisroi](https://www.instagram.com/agusfaisalisroi?stkn=bWkzNm52cWN0eXcz)
+- 🎧 **Spotify Playlist** → [Dengarkan di sini](https://open.spotify.com/playlist/38HfDSwKCHMv7FkNtbj5y4?si=70479f470eea4faf)
+
+</details>
+
+---
+
+## 🎧 𝔑𝔬𝔴 𝔓𝔩𝔞𝔶𝔦𝔫𝔤
+
+<div align="center">
+
+<a href="https://open.spotify.com/playlist/38HfDSwKCHMv7FkNtbj5y4?si=70479f470eea4faf">
+  <img src="https://img.shields.io/badge/▶_Play_my_playlist_on_Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=0b1f14" alt="Play playlist"/>
+</a>
+
+<sub>♫ headphones on · world off ♫</sub>
+
+</div>
+
+---
+
+## 📊 𝔖𝔱𝔞𝔱𝔰
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AFI-CORPORATION&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=8fbf9f&icon_color=1a8f4e&text_color=c0c0c0" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFI-CORPORATION&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=8fbf9f&text_color=c0c0c0" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AFI-CORPORATION&background=0D0D0D&ring=1A8F4E&fire=8FBF9F&currStreakLabel=C0C0C0&sideLabels=C0C0C0&currStreakNum=8FBF9F&sideNums=8FBF9F&dates=6B6B6B&stroke=1A472A&hide_border=true" alt="Streak"/>
+
+</div>
+
+> 🔧 Ganti `AFI-CORPORATION` pada URL stats dengan **username GitHub** kamu yang asli jika berbeda.
+
+---
+
+<div align="center">
+
+```
+ ✠ ───────────────────────────────── ✠
+     "Ambition is the quiet fire."
+ ✠ ───────────────────────────────── ✠
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:0b1f14,100:000000&height=120&section=footer&reversal=true" width="100%" alt="footer"/>
+
+<sub>© AFI-CORPORATION · crafted in the dark 🖤🐍</sub>
+
+</div>
