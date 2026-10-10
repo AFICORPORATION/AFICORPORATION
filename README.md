@@ -28,13 +28,13 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/photo-1.png" width="100%" alt="photo 1"/>
+      <img src="photo-1.png" width="100%" alt="photo 1"/>
     </td>
     <td align="center" width="33%">
-      <img src="assets/photo-2.jpg" width="100%" alt="photo 2"/>
+      <img src="photo-2.jpg" width="100%" alt="photo 2"/>
     </td>
     <td align="center" width="33%">
-      <img src="assets/photo-3.jpg" width="100%" alt="photo 3"/>
+      <img src="photo-3.jpg" width="100%" alt="photo 3"/>
     </td>
   </tr>
   <tr>
